@@ -1,6 +1,4 @@
-Here’s a **README.md** file for your **Inventory Management System (Console-Based, JDBC & MySQL)**. You can use this for your GitHub repository.  
 
----
 
 ### 📄 **README.md**
 ```markdown
